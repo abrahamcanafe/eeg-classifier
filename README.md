@@ -1,6 +1,6 @@
 # Decoding EEG Data with Deep Learning
 
-Neural network classifiers for electroencephalography (EEG) data created in 2023 as the final project of the Introduction to Deep Learning course at UCLA.
+Neural network classifiers for electroencephalography (EEG) data created in 2023 as the final project of the Neural Networks and Deep Learning course at UCLA.
 
 ## Built With
 
