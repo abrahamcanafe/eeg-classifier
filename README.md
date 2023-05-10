@@ -17,7 +17,7 @@ Various classification and data exploration tasks for the EEG dataset described 
 Unfortunately, the preprocessed EEG dataset used in this respository cannot be shared. The original EEG dataset can stil be found [here](https://bbci.de/competition/iv/desc_2a.pdf).
 
 ## Report Preview
-### Front Page
-![image](https://github.com/abrahamcanafe/eeg-classifier/assets/77762514/cd994281-6998-4d92-9a4c-256b63b11a05)
+<!-- ### Front Page -->
+<!-- ![image](https://github.com/abrahamcanafe/eeg-classifier/assets/77762514/cd994281-6998-4d92-9a4c-256b63b11a05) -->
 ### Classification Results and Neural Network Architectures
 ![image](https://github.com/abrahamcanafe/eeg-classifier/assets/77762514/d67c99f5-00ec-435b-b816-5075f05236ee)
