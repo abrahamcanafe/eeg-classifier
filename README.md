@@ -4,12 +4,17 @@ Neural network classifiers for electroencephalography (EEG) data created in 2023
 
 ## Built With
 
-* Written in Python
-* Neural networks implemented using PyTorch
+* Python
+* Jupyter Notebook
+* PyTorch
 
 ## Project Details
 
 Various classification and data exploration tasks for the EEG dataset described in this [link](https://bbci.de/competition/iv/desc_2a.pdf) using models largely based on convolutional neural networks. More details are discussed in the [final report](https://github.com/abrahamcanafe/eeg-classifier/blob/main/Decoding_EEG_Data_with_Deep_Learning.pdf).
+
+## Additional Notes
+
+Unfortunately, the preprocessed EEG dataset used in this respository cannot be shared. The original EEG dataset can stil be found [here](https://bbci.de/competition/iv/desc_2a.pdf).
 
 ## Report Preview
 ### Front Page
