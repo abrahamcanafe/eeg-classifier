@@ -10,7 +10,7 @@ Neural network classifiers for electroencephalography (EEG) data created in 2023
 
 ## Project Details
 
-Various classification and data exploration tasks for the EEG dataset described in this [link](https://bbci.de/competition/iv/desc_2a.pdf) using models largely based on convolutional neural networks. More details are discussed in the [final report](https://github.com/abrahamcanafe/eeg-classifier/blob/main/Decoding_EEG_Data_with_Deep_Learning.pdf).
+Various classification and data exploration tasks for the EEG dataset described in this [link](https://bbci.de/competition/iv/desc_2a.pdf) using models largely based on convolutional neural networks. More details are discussed in the [final report](https://github.com/abrahamcanafe/eeg-classifier/blob/main/Decoding_EEG_Data_with_Deep_Learning.pdf) and the [Jupyter Notebooks](https://github.com/abrahamcanafe/eeg-classifier/tree/main/eeg-classifier).
 
 ## Additional Notes
 
